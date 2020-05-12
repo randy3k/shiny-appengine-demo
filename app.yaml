@@ -1,0 +1,5 @@
+service: default
+runtime: custom
+env: flex
+manual_scaling:
+  instances: 1
