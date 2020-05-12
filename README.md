@@ -1,4 +1,4 @@
-# Running Shiny app on Google Cloud Run
+# Running Shiny app on Google App Engine
 
 ```
 PROJECTID=$(gcloud config get-value project)
